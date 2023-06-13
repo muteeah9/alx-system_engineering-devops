@@ -1,1 +1,1 @@
-shell init variables
+shell init variable
